@@ -1,6 +1,6 @@
 # cross-selling
 
-The idea of this project is to create suggestions of products for costumers to purchase based on past purchases.
+The idea of this project is to create suggestions of products for costumers to purchase based on past purchases. We use the same methodology as Apriori but doing the math without the library.
 
 We analyze the purchases history to generate metrics such as Support and Confidence, creating association rules between the products.
 
